@@ -1,8 +1,8 @@
 p {
     color: rgb(3, 11, 56);
     font-size: 16px;
-    line-height: 1.5; /* межстрочный интервал */
+    line-height: 1.5; 
   }
   body {
-    background-color: #9293ff; /* Цвет фона в формате HEX */
+    background-color: #9293ff;
   }
