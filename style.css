@@ -1,5 +1,8 @@
 p {
-    color: green;
+    color: rgb(3, 11, 56);
     font-size: 16px;
     line-height: 1.5; /* межстрочный интервал */
+  }
+  body {
+    background-color: #9293ff; /* Цвет фона в формате HEX */
   }
