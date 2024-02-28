@@ -51,5 +51,9 @@ p {
     body {
       font-family: Arial, sans-serif;
       text-align: center; 
+      text-decoration: none;
   }
-  
+  a{
+    text-decoration: none;
+    color: inherit; 
+  }
