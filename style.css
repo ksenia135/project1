@@ -41,12 +41,12 @@ p {
     .menu ul li {
         padding: 10px 20px;
         cursor: pointer;
-        background: #0041ff47;
+        background: #99aeec47;
         margin-bottom: 4px;
         border-radius: 20px;
     }
     .menu ul li:hover {
-        background-color: #555;
+        background-color: #af8b8b;
     }
     body {
       font-family: Arial, sans-serif;
